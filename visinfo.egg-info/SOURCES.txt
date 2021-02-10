@@ -1,0 +1,9 @@
+setup.py
+sub_pack/__init__.py
+sub_pack/lib.py
+test/teste.py
+visinfo.egg-info/PKG-INFO
+visinfo.egg-info/SOURCES.txt
+visinfo.egg-info/dependency_links.txt
+visinfo.egg-info/requires.txt
+visinfo.egg-info/top_level.txt
